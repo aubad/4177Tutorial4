@@ -2,7 +2,7 @@ import Login from "./components/Login";
 import Profile from "./components/ProfileListing";
 import User from "./components/UserDetails";
 import "./App.css";
-import { Route, Routes, Router } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
